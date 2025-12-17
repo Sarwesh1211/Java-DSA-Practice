@@ -1,7 +1,7 @@
 # Java-DSA-Practice
 
 This repository contains my daily practice of Data Structures and Algorithms
-using Java, following Kunal Khuswaha's DSA playlist.
+using Java, following Kunal Khuswaha's and PEP coding  DSA playlist.
 
 ## Topics Covered
 - Basics
